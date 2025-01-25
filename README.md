@@ -10,6 +10,8 @@ Objective
 
 
 My experience as a data entry clerk has sparked a passion for technology, particularly in cybersecurity. I am now eager to transition into this field, with a goal of joining a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+
 Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
